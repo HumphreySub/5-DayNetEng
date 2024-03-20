@@ -51,7 +51,7 @@ int e1/0
 
 Pano mag static Route sa PC:
 cmd
-route  add 10.m.0.0 mask 255.255.0.0 10.m.1.4 -p
+route  add 10.31.0.0 mask 255.255.0.0 10.31.1.4 -p
 
 How to StaticRoute Cisco/PC/EndDevices:
 p1:
